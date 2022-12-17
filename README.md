@@ -3,7 +3,7 @@
 <h6 align="left">🏅 I recently completed my Big Data studies from iNeuron.ai</br>
 🎓 I have completed my BSc from Primasia University</br>
 ⏳ I am constantly learning and keep myself updated with the latest technologies in Big Data.</br>
-🤔 My interests are in Big Data, Data Science and Data Analysis based Systems.</br>
+🤔 My interests are in Big Data, Data Engineering and Data Analysis based Systems.</br>
 💬 Ask me about anything, I am happy to help.</br>
 📫 Please email via hfmasif@gmail.com to reach me.</br>
 🌍 Please vist my <a href="under construction">website</a>.</br>
