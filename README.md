@@ -7,5 +7,5 @@
 💬 Ask me about anything, I am happy to help.</br>
 📫 Please email via hfmasif@gmail.com to reach me.</br>
 🌍 Please vist my <a href="under construction">website</a>.</br>
-📝 See my <a href="https://drive.google.com/file/d/172HuSIZiYLvmrghLDFi7tFLU-2fjbVYO/view?usp=share_link">Resume</a> to get more info.</br></h6>
+📝 See my <a href="https://drive.google.com/file/d/172HuSIZiYLvmrghLDFi7tFLU-2fjbVYO/view?usp=share_link" target="_blank">Resume</a> to get more info.</br></h6>
 
